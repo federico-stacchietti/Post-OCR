@@ -1,0 +1,13 @@
+scikit-learn
+numpy
+pandas
+datasets
+transformers
+matplotlib
+seaborn
+sentencepiece
+torch
+evaluate
+bleu
+seqeval
+
